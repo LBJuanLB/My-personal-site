@@ -1,0 +1,20 @@
+body {
+  background-color:#11999e;
+ }
+hr {
+  border-style: none;
+  border-color: #dcedc1;
+  border-top-style: solid;
+  /* width: 10%; */
+  border-width: 5px;
+}
+h1, h2, h3 {
+  color:#dcedc1;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 2px solid #dcedc1;
+}
